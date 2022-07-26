@@ -1,0 +1,30 @@
+        body {
+            background-color: rgba(127, 255, 212, 0.707);
+            /* background-image: url('AppBreweryWallpaper 1.jpg'); */
+            /* background-image: cross-fade(40); */
+            /* filter: brightness(10%); */
+        }
+        
+        img {
+            border-radius: 50%;
+            height: 250px;
+            width: 250px;
+        }
+        
+        hr {
+            width: 30%;
+            /* height: 0; */
+            border-color: gray;
+            /* border: dotted; */
+            /* border-radius: 50%; */
+            border-style: none;
+            border-top-style: dotted;
+            border-width: 5px;
+        }
+        /* div { 
+           background-color: blue; 
+        } */
+        
+        table {
+            border: 20rem;
+        }
